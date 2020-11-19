@@ -1,4 +1,4 @@
-baseurl: "https://example.org/"
+baseurl: "https://clever-hypatia-383903.netlify.app/"
 title: "Conference name"
 canonifyurls: true
 theme: "hugo-conference"
