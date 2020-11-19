@@ -1,0 +1,3 @@
+[submodule "themes/hugo-conference"]
+	path = themes/hugo-conference
+	url = git@github.com:jweslley/hugo-conference.git
