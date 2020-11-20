@@ -26,7 +26,7 @@ params:
     - speakers
     - schedule
     - sponsors
-    - partners
+    # - partners
     #- contact
 
   # Titles which you can translate to other languages
@@ -42,7 +42,7 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Give a workshop!"
+    text: "Submit a workshop!"
     link: "https://www.papercall.io/gcil-2021"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
@@ -77,3 +77,15 @@ params:
 
     - name: "Conference day"
       time: "February 11, 2021"
+
+    - name: "Bill Kennedy"
+      photo: "/img/bill_kennedy.jpg"
+      bio: "Walking the line between correctness and comprehension, youtube.ardanlabs.com"
+      company: "Ardan Labs"
+      link:
+        href: "http://twitter.com/goinggodotnet"
+        text: "@goinggodotnet"
+      presentation:
+        title: "Tracing and Profiling in Go"
+        description: "In this workshop Bill will walk you through the Go tooling on tracing and profiling.  Along the way, he will teach about escape analysis, garbage collection, and compiler optimizations"
+        time: "February 11, 2021"
