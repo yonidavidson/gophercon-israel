@@ -380,6 +380,23 @@ nav {
 .about {
   padding: 19px;
   margin: 0 -20px 0;
+  display: grid;
+  grid-template-rows: 25% 20% 55% ;
+}
+
+.about .title{
+  grid-row: 2/3;
+  border: none
+}
+
+.about .body {
+  grid-row: 3/4;
+  border: none
+}
+
+.about .gophercon-israel-logo{
+  grid-row: 1/2;
+  border: none
 }
 /* =============================================================================
    SPEAKER
@@ -899,9 +916,4 @@ nav {
   .github-link {
     display: none;
   }
-}
-
-
-.gophercon-israel-logo{
-  float: right
 }
