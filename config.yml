@@ -55,8 +55,8 @@ params:
       logo: "/img/hugo.png"
       url: "http://gohugo.io"
       body:
-        - text: "At DoiT International we tackle complex problems of scale which are sometimes unique to internet-scale customers while using our expertise in resolving problems, coding, algorithms, complexity analysis, and large-scale system design."
-        - text: "Driven by highly-experienced, senior-level customer reliability engineers, DoiT International is a leading go-to innovation team that can help you make the cloud yours."
+        - text: "At Hugo International we tackle complex problems of scale which are sometimes unique to internet-scale customers while using our expertise in resolving problems, coding, algorithms, complexity analysis, and large-scale system design."
+        - text: "Driven by highly-experienced, senior-level customer reliability engineers, Hugo International is a leading go-to innovation team that can help you make the cloud yours."
 
   # List of Partners
   Partners:
